@@ -3,6 +3,7 @@ Write a basic application to (use volley library), create a button and on click 
 
 To generate your own HTTP Response:
 Goto -> [mocky.io](https://designer.mocky.io/) and create your own http response by using json similar to following:
+```json
 {
     "users": [
         {
